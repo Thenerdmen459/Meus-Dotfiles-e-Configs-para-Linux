@@ -1,5 +1,5 @@
 
-# 💻 Dotfiles e Configs do Arthur
+# 💻 Dotfiles e Configs
 
 Repositório com todas as minhas configurações pessoais para Linux Mint:
 
@@ -39,7 +39,7 @@ Depois, abra o Vim e rode:
 
 ---
 
-## 📄 Configuração do Vim (init.vim)
+## 📄 Configuração do Vim (.vimrc)
 
 ```vim
 " ----------------------------
